@@ -1,4 +1,8 @@
 ![Header](./github_banner.png)
+<p align="center">
+  <img src="./github_banner_02.png" alt="Banner Image" style="width:100%; height:20%; ">
+</p>
+
 ## Hello world !
 
  I'm Ishika, a passionate student, who just embarked on a thrilling adventure of software development at Manitoba Institute of Trade and technology.
