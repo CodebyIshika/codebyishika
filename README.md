@@ -1,7 +1,8 @@
 ![Header](./github_header_image.png)
 
 ## Hello world !
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+Software+Developer+Student)](https://git.io/typing-svg)
+ 
  I'm Ishika, a passionate student, who just embarked on a thrilling adventure of software development at Manitoba Institute of Trade and technology.
  
  As I take my first steps into the world of coding, I'm eager to discover the magic of turning ideas into reality through lines of code.
