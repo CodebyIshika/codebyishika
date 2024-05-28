@@ -1,4 +1,4 @@
-![Header](./github_header_image.png)
+![Header](./github-banner.png)
 
 ## Hello world !
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+Software+Developer+Student)](https://git.io/typing-svg)
