@@ -20,21 +20,40 @@
  often find me exploring the great outdoors, finding serenity in the embrace of nature.
 
 
- ### My Skills
+ ### My Skills 💻
 
  <p>
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img src="https://img.shields.io/badge/visual%20studio-007ACC.svg?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </p>
 
-### My Stats :
+## Let's Connect! 🌐
+
+- 📫 You can reach out to me at [ishika11518@gmail.com](mailto:ishika11518@gmail.com).
+- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishika-ishika-449388292/).
+
+Feel like exploring my repositories? Dive in and discover what I've been working on! Whether you have feedback, questions, or just want to say hi, I'm all ears! 
+Let's make coding fun together! 🌟🚀
+
+
+### My Stats 📊:
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodebyIshika&theme=python-dark&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyIshika&layout=compact&theme=dark)](https://github.com/CodebyIshika/github-readme-stats)
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!+✌️;Feel+free+to+connect+with+me+on+LinkedIn!;Ishika+:)">
+</h3>
 
 
 
